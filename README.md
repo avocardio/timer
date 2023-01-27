@@ -1,5 +1,5 @@
 # timer
-A small import for timing files (saves you about 10 seconds of hard work). In under 50 lines of code.
+A small import for timing files (saves you about 10 seconds of hard work). In under 50 lines of code. No further packages needed.
 
 It wraps your file in: 
 ```python
